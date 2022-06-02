@@ -31,7 +31,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Felipe Silva | Software Engineer - Todos os direitos reservados 2022</Slogan>
+          <Slogan>Felipe Silva | Software Engineer - Todos os direitos 2022</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://github.com/felipeOliveira-1">
