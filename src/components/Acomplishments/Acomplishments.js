@@ -16,7 +16,7 @@ const Acomplishments = () => (
     <Boxes>
       {data.map((card, index)=>(
         <Box key={index}>
-          <BoxNum>{card.number}+</BoxNum>
+          <BoxNum>{card.number}&#10004</BoxNum>
           <BoxText>{card.text}</BoxText>
           </Box>
       ))}
